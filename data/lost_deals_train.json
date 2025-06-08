@@ -1,0 +1,4099 @@
+[
+    {
+        "id": "12690973853",
+        "properties": {
+            "amount": "58500",
+            "closedate": "2023-05-31T20:02:33.130Z",
+            "createdate": "2022-11-09T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-24T20:15:36.417Z",
+            "hs_object_id": "12690973853",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-11-09T06:00:00Z",
+        "updatedAt": "2025-01-24T20:15:36.417Z",
+        "archived": false
+    },
+    {
+        "id": "12691023253",
+        "properties": {
+            "amount": "50000",
+            "closedate": null,
+            "createdate": "2021-09-16T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.103Z",
+            "hs_object_id": "12691023253",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-09-16T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.103Z",
+        "archived": false
+    },
+    {
+        "id": "12691023254",
+        "properties": {
+            "amount": "11790",
+            "closedate": "2023-10-10T15:15:38.370Z",
+            "createdate": "2022-03-16T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-11T19:31:00.982Z",
+            "hs_object_id": "12691023254",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-16T05:00:00Z",
+        "updatedAt": "2025-02-11T19:31:00.982Z",
+        "archived": false
+    },
+    {
+        "id": "12691023255",
+        "properties": {
+            "amount": "12000",
+            "closedate": "2023-05-22T14:19:33.980Z",
+            "createdate": "2022-12-20T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-03-17T13:27:29.786Z",
+            "hs_object_id": "12691023255",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-12-20T06:00:00Z",
+        "updatedAt": "2025-03-17T13:27:29.786Z",
+        "archived": false
+    },
+    {
+        "id": "12691023256",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-04-14T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-30T19:48:46.668Z",
+            "hs_object_id": "12691023256",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-04-14T05:00:00Z",
+        "updatedAt": "2025-01-30T19:48:46.668Z",
+        "archived": false
+    },
+    {
+        "id": "12691023257",
+        "properties": {
+            "amount": "5500",
+            "closedate": null,
+            "createdate": "2022-02-23T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.260Z",
+            "hs_object_id": "12691023257",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-02-23T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.260Z",
+        "archived": false
+    },
+    {
+        "id": "12691023258",
+        "properties": {
+            "amount": "5500",
+            "closedate": null,
+            "createdate": "2022-07-05T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.058Z",
+            "hs_object_id": "12691023258",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-05T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.058Z",
+        "archived": false
+    },
+    {
+        "id": "12691188128",
+        "properties": {
+            "amount": "15500",
+            "closedate": null,
+            "createdate": "2023-03-10T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2025-01-23T23:22:20.584Z",
+            "hs_object_id": "12691188128",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-03-10T06:00:00Z",
+        "updatedAt": "2025-01-23T23:22:20.584Z",
+        "archived": false
+    },
+    {
+        "id": "12691188129",
+        "properties": {
+            "amount": "20000",
+            "closedate": null,
+            "createdate": "2022-04-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2025-04-04T17:39:44.082Z",
+            "hs_object_id": "12691188129",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-19T05:00:00Z",
+        "updatedAt": "2025-04-04T17:39:44.082Z",
+        "archived": false
+    },
+    {
+        "id": "12692529515",
+        "properties": {
+            "amount": "8200",
+            "closedate": "2023-05-02T14:48:54.381Z",
+            "createdate": "2023-02-16T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-11T16:25:45.878Z",
+            "hs_object_id": "12692529515",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-02-16T06:00:00Z",
+        "updatedAt": "2025-02-11T16:25:45.878Z",
+        "archived": false
+    },
+    {
+        "id": "12692529516",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-03-23T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.648Z",
+            "hs_object_id": "12692529516",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-03-23T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.648Z",
+        "archived": false
+    },
+    {
+        "id": "12692535647",
+        "properties": {
+            "amount": "35000",
+            "closedate": null,
+            "createdate": "2022-04-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2025-04-04T17:39:45.233Z",
+            "hs_object_id": "12692535647",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-19T05:00:00Z",
+        "updatedAt": "2025-04-04T17:39:45.233Z",
+        "archived": false
+    },
+    {
+        "id": "12692535649",
+        "properties": {
+            "amount": "101000",
+            "closedate": null,
+            "createdate": "2021-05-20T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.103Z",
+            "hs_object_id": "12692535649",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-05-20T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.103Z",
+        "archived": false
+    },
+    {
+        "id": "12692535650",
+        "properties": {
+            "amount": "37600",
+            "closedate": null,
+            "createdate": "2022-10-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.907Z",
+            "hs_object_id": "12692535650",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-10-19T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.907Z",
+        "archived": false
+    },
+    {
+        "id": "12692535653",
+        "properties": {
+            "amount": "475958.47",
+            "closedate": "2023-05-31T20:03:31.428Z",
+            "createdate": "2022-03-14T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-13T19:29:28.610Z",
+            "hs_object_id": "12692535653",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-14T05:00:00Z",
+        "updatedAt": "2025-02-13T19:29:28.610Z",
+        "archived": false
+    },
+    {
+        "id": "12692541271",
+        "properties": {
+            "amount": "31000",
+            "closedate": "2023-10-03T14:45:32.106Z",
+            "createdate": "2022-12-21T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:30.757Z",
+            "hs_object_id": "12692541271",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-12-21T06:00:00Z",
+        "updatedAt": "2025-04-11T13:50:30.757Z",
+        "archived": false
+    },
+    {
+        "id": "12692541273",
+        "properties": {
+            "amount": "76500",
+            "closedate": "2023-10-02T17:53:57.885Z",
+            "createdate": "2022-11-02T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:41.645Z",
+            "hs_object_id": "12692541273",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-11-02T05:00:00Z",
+        "updatedAt": "2025-04-11T13:50:41.645Z",
+        "archived": false
+    },
+    {
+        "id": "12692541278",
+        "properties": {
+            "amount": "12000",
+            "closedate": null,
+            "createdate": "2021-08-09T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.404Z",
+            "hs_object_id": "12692541278",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-08-09T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.404Z",
+        "archived": false
+    },
+    {
+        "id": "12692546931",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-12-03T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.543Z",
+            "hs_object_id": "12692546931",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-12-03T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.543Z",
+        "archived": false
+    },
+    {
+        "id": "12692557738",
+        "properties": {
+            "amount": "18600",
+            "closedate": "2023-05-16T14:24:39.311Z",
+            "createdate": "2023-03-09T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-08-15T14:31:06.145Z",
+            "hs_object_id": "12692557738",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-03-09T06:00:00Z",
+        "updatedAt": "2023-08-15T14:31:06.145Z",
+        "archived": false
+    },
+    {
+        "id": "12692557739",
+        "properties": {
+            "amount": "20000",
+            "closedate": null,
+            "createdate": "2022-02-18T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2024-03-15T15:25:17.343Z",
+            "hs_object_id": "12692557739",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-02-18T06:00:00Z",
+        "updatedAt": "2024-03-15T15:25:17.343Z",
+        "archived": false
+    },
+    {
+        "id": "12692557740",
+        "properties": {
+            "amount": "40800",
+            "closedate": null,
+            "createdate": "2022-07-29T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.124Z",
+            "hs_object_id": "12692557740",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-29T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.124Z",
+        "archived": false
+    },
+    {
+        "id": "12692557741",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-05-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.646Z",
+            "hs_object_id": "12692557741",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-05-19T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.646Z",
+        "archived": false
+    },
+    {
+        "id": "12692562842",
+        "properties": {
+            "amount": "4000",
+            "closedate": null,
+            "createdate": "2021-03-09T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.711Z",
+            "hs_object_id": "12692562842",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-03-09T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.711Z",
+        "archived": false
+    },
+    {
+        "id": "12692562843",
+        "properties": {
+            "amount": "48750",
+            "closedate": "2023-05-31T20:01:53.060Z",
+            "createdate": "2022-07-20T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-27T22:46:50.281Z",
+            "hs_object_id": "12692562843",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-20T05:00:00Z",
+        "updatedAt": "2025-02-27T22:46:50.281Z",
+        "archived": false
+    },
+    {
+        "id": "12692562845",
+        "properties": {
+            "amount": "88000",
+            "closedate": "2025-01-28T16:50:55.111Z",
+            "createdate": "2021-03-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-28T16:51:15.320Z",
+            "hs_object_id": "12692562845",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-03-19T05:00:00Z",
+        "updatedAt": "2025-01-28T16:51:15.320Z",
+        "archived": false
+    },
+    {
+        "id": "12692572575",
+        "properties": {
+            "amount": "18750",
+            "closedate": null,
+            "createdate": "2023-02-07T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-02-14T15:27:27.639Z",
+            "hs_object_id": "12692572575",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-02-07T06:00:00Z",
+        "updatedAt": "2025-02-14T15:27:27.639Z",
+        "archived": false
+    },
+    {
+        "id": "12692572576",
+        "properties": {
+            "amount": "74250",
+            "closedate": null,
+            "createdate": "2021-06-17T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.907Z",
+            "hs_object_id": "12692572576",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-06-17T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.907Z",
+        "archived": false
+    },
+    {
+        "id": "12692579117",
+        "properties": {
+            "amount": "36800",
+            "closedate": null,
+            "createdate": "2021-07-08T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-30T19:48:52.771Z",
+            "hs_object_id": "12692579117",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-07-08T05:00:00Z",
+        "updatedAt": "2025-01-30T19:48:52.771Z",
+        "archived": false
+    },
+    {
+        "id": "12692579118",
+        "properties": {
+            "amount": "18000",
+            "closedate": null,
+            "createdate": "2022-04-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2025-04-04T17:39:44.185Z",
+            "hs_object_id": "12692579118",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-19T05:00:00Z",
+        "updatedAt": "2025-04-04T17:39:44.185Z",
+        "archived": false
+    },
+    {
+        "id": "12692579120",
+        "properties": {
+            "amount": "750",
+            "closedate": null,
+            "createdate": "2022-03-16T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.055Z",
+            "hs_object_id": "12692579120",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-16T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.055Z",
+        "archived": false
+    },
+    {
+        "id": "12692585072",
+        "properties": {
+            "amount": "53000",
+            "closedate": null,
+            "createdate": "2022-03-24T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.061Z",
+            "hs_object_id": "12692585072",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-24T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.061Z",
+        "archived": false
+    },
+    {
+        "id": "12692585073",
+        "properties": {
+            "amount": "8500",
+            "closedate": null,
+            "createdate": "2021-11-08T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.101Z",
+            "hs_object_id": "12692585073",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-11-08T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.101Z",
+        "archived": false
+    },
+    {
+        "id": "12692590394",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-04-23T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-04T18:36:02.995Z",
+            "hs_object_id": "12692590394",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-04-23T05:00:00Z",
+        "updatedAt": "2025-04-04T18:36:02.995Z",
+        "archived": false
+    },
+    {
+        "id": "12692590395",
+        "properties": {
+            "amount": "8500",
+            "closedate": null,
+            "createdate": "2022-03-09T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.100Z",
+            "hs_object_id": "12692590395",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-09T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.100Z",
+        "archived": false
+    },
+    {
+        "id": "12692590397",
+        "properties": {
+            "amount": "100000",
+            "closedate": null,
+            "createdate": "2021-05-02T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-23T15:01:25.349Z",
+            "hs_object_id": "12692590397",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-05-02T05:00:00Z",
+        "updatedAt": "2025-05-23T15:01:25.349Z",
+        "archived": false
+    },
+    {
+        "id": "12692597817",
+        "properties": {
+            "amount": "4500",
+            "closedate": "2023-05-08T23:35:05.136Z",
+            "createdate": "2023-01-09T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.710Z",
+            "hs_object_id": "12692597817",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-09T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.710Z",
+        "archived": false
+    },
+    {
+        "id": "12692597818",
+        "properties": {
+            "amount": "4500",
+            "closedate": null,
+            "createdate": "2021-06-15T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.099Z",
+            "hs_object_id": "12692597818",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-06-15T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.099Z",
+        "archived": false
+    },
+    {
+        "id": "12692597819",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-04-14T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.538Z",
+            "hs_object_id": "12692597819",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-04-14T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.538Z",
+        "archived": false
+    },
+    {
+        "id": "12692597820",
+        "properties": {
+            "amount": "467500",
+            "closedate": null,
+            "createdate": "2022-03-24T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.055Z",
+            "hs_object_id": "12692597820",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-24T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.055Z",
+        "archived": false
+    },
+    {
+        "id": "12692597822",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-11-12T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.538Z",
+            "hs_object_id": "12692597822",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-11-12T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.538Z",
+        "archived": false
+    },
+    {
+        "id": "12692603044",
+        "properties": {
+            "amount": "25500",
+            "closedate": "2023-09-29T18:53:21.430Z",
+            "createdate": "2023-01-23T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2024-01-22T21:22:00.212Z",
+            "hs_object_id": "12692603044",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-23T06:00:00Z",
+        "updatedAt": "2024-01-22T21:22:00.212Z",
+        "archived": false
+    },
+    {
+        "id": "12692603046",
+        "properties": {
+            "amount": "44013",
+            "closedate": null,
+            "createdate": "2022-08-24T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-30T19:48:50.149Z",
+            "hs_object_id": "12692603046",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-08-24T05:00:00Z",
+        "updatedAt": "2025-01-30T19:48:50.149Z",
+        "archived": false
+    },
+    {
+        "id": "12692608340",
+        "properties": {
+            "amount": "4500",
+            "closedate": "2023-05-02T14:25:53.328Z",
+            "createdate": "2022-12-01T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.455Z",
+            "hs_object_id": "12692608340",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-12-01T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.455Z",
+        "archived": false
+    },
+    {
+        "id": "12692614276",
+        "properties": {
+            "amount": "120758",
+            "closedate": "2023-09-15T12:22:47.943Z",
+            "createdate": "2023-01-26T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:20.641Z",
+            "hs_object_id": "12692614276",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-26T06:00:00Z",
+        "updatedAt": "2025-04-11T13:50:20.641Z",
+        "archived": false
+    },
+    {
+        "id": "12692614277",
+        "properties": {
+            "amount": "152130",
+            "closedate": "2023-05-08T23:39:38.609Z",
+            "createdate": "2022-08-12T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.539Z",
+            "hs_object_id": "12692614277",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-08-12T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.539Z",
+        "archived": false
+    },
+    {
+        "id": "12692614278",
+        "properties": {
+            "amount": "20000",
+            "closedate": "2023-07-19T18:04:41.030Z",
+            "createdate": "2022-03-14T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-05T21:42:21.558Z",
+            "hs_object_id": "12692614278",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-14T05:00:00Z",
+        "updatedAt": "2024-08-05T21:42:21.558Z",
+        "archived": false
+    },
+    {
+        "id": "12692618842",
+        "properties": {
+            "amount": "80000",
+            "closedate": null,
+            "createdate": "2021-10-08T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.259Z",
+            "hs_object_id": "12692618842",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-10-08T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.259Z",
+        "archived": false
+    },
+    {
+        "id": "12692624296",
+        "properties": {
+            "amount": "4000",
+            "closedate": null,
+            "createdate": "2022-05-20T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-05T16:53:30.021Z",
+            "hs_object_id": "12692624296",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-05-20T05:00:00Z",
+        "updatedAt": "2024-08-05T16:53:30.021Z",
+        "archived": false
+    },
+    {
+        "id": "12692624297",
+        "properties": {
+            "amount": "132565",
+            "closedate": "2023-05-02T22:40:20.664Z",
+            "createdate": "2023-01-31T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-24T16:58:25.626Z",
+            "hs_object_id": "12692624297",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-31T06:00:00Z",
+        "updatedAt": "2025-01-24T16:58:25.626Z",
+        "archived": false
+    },
+    {
+        "id": "12692624299",
+        "properties": {
+            "amount": "352710",
+            "closedate": null,
+            "createdate": "2022-08-17T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-05T16:53:30.181Z",
+            "hs_object_id": "12692624299",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-08-17T05:00:00Z",
+        "updatedAt": "2024-08-05T16:53:30.181Z",
+        "archived": false
+    },
+    {
+        "id": "12692630435",
+        "properties": {
+            "amount": "127100",
+            "closedate": "2023-04-25T03:23:50.899Z",
+            "createdate": "2023-02-24T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.711Z",
+            "hs_object_id": "12692630435",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-02-24T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.711Z",
+        "archived": false
+    },
+    {
+        "id": "12692630436",
+        "properties": {
+            "amount": "292600",
+            "closedate": "2023-07-19T18:04:07.526Z",
+            "createdate": "2022-06-27T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.100Z",
+            "hs_object_id": "12692630436",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-06-27T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.100Z",
+        "archived": false
+    },
+    {
+        "id": "12692630438",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-04-14T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-06T14:58:50.801Z",
+            "hs_object_id": "12692630438",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-04-14T05:00:00Z",
+        "updatedAt": "2025-02-06T14:58:50.801Z",
+        "archived": false
+    },
+    {
+        "id": "12692635519",
+        "properties": {
+            "amount": "218625",
+            "closedate": "2023-06-26T18:23:58.479Z",
+            "createdate": "2022-03-14T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-08-15T14:31:00.100Z",
+            "hs_object_id": "12692635519",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-14T05:00:00Z",
+        "updatedAt": "2023-08-15T14:31:00.100Z",
+        "archived": false
+    },
+    {
+        "id": "12692635520",
+        "properties": {
+            "amount": "21000",
+            "closedate": "2023-09-01T16:41:54.296Z",
+            "createdate": "2023-01-04T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-22T20:57:18.686Z",
+            "hs_object_id": "12692635520",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-04T06:00:00Z",
+        "updatedAt": "2025-05-22T20:57:18.686Z",
+        "archived": false
+    },
+    {
+        "id": "12692635522",
+        "properties": {
+            "amount": "15750",
+            "closedate": "2023-07-19T14:46:39.486Z",
+            "createdate": "2022-07-15T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-22T18:33:29.744Z",
+            "hs_object_id": "12692635522",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-15T05:00:00Z",
+        "updatedAt": "2025-01-22T18:33:29.744Z",
+        "archived": false
+    },
+    {
+        "id": "12692641570",
+        "properties": {
+            "amount": "135080.9",
+            "closedate": "2023-05-31T20:02:40.026Z",
+            "createdate": "2022-05-11T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.904Z",
+            "hs_object_id": "12692641570",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-05-11T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.904Z",
+        "archived": false
+    },
+    {
+        "id": "12692641571",
+        "properties": {
+            "amount": "4500",
+            "closedate": "2023-10-02T19:20:07.764Z",
+            "createdate": "2023-02-28T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-01T18:44:17.594Z",
+            "hs_object_id": "12692641571",
+            "hubspot_owner_id": "354640247",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-02-28T06:00:00Z",
+        "updatedAt": "2025-04-01T18:44:17.594Z",
+        "archived": false
+    },
+    {
+        "id": "12692641572",
+        "properties": {
+            "amount": "96000",
+            "closedate": null,
+            "createdate": "2021-05-21T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-01T15:59:05.819Z",
+            "hs_object_id": "12692641572",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-05-21T05:00:00Z",
+        "updatedAt": "2024-08-01T15:59:05.819Z",
+        "archived": false
+    },
+    {
+        "id": "12692641573",
+        "properties": {
+            "amount": "596000",
+            "closedate": null,
+            "createdate": "2022-04-21T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-10-16T15:00:34.013Z",
+            "hs_object_id": "12692641573",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-21T05:00:00Z",
+        "updatedAt": "2024-10-16T15:00:34.013Z",
+        "archived": false
+    },
+    {
+        "id": "12692641574",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-12-02T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.262Z",
+            "hs_object_id": "12692641574",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-12-02T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.262Z",
+        "archived": false
+    },
+    {
+        "id": "12692641575",
+        "properties": {
+            "amount": "10000",
+            "closedate": null,
+            "createdate": "2021-08-25T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.404Z",
+            "hs_object_id": "12692641575",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-08-25T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.404Z",
+        "archived": false
+    },
+    {
+        "id": "12692647698",
+        "properties": {
+            "amount": "8500",
+            "closedate": null,
+            "createdate": "2021-09-01T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.100Z",
+            "hs_object_id": "12692647698",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-09-01T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.100Z",
+        "archived": false
+    },
+    {
+        "id": "12692647700",
+        "properties": {
+            "amount": "105500",
+            "closedate": "2023-05-08T23:42:30.476Z",
+            "createdate": "2022-04-12T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-05-23T20:55:46.274Z",
+            "hs_object_id": "12692647700",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-12T05:00:00Z",
+        "updatedAt": "2024-05-23T20:55:46.274Z",
+        "archived": false
+    },
+    {
+        "id": "12692647701",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-03-30T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.904Z",
+            "hs_object_id": "12692647701",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-03-30T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.904Z",
+        "archived": false
+    },
+    {
+        "id": "12692651785",
+        "properties": {
+            "amount": "18985",
+            "closedate": "2023-05-31T20:02:43.458Z",
+            "createdate": "2022-04-21T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.559Z",
+            "hs_object_id": "12692651785",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-21T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.559Z",
+        "archived": false
+    },
+    {
+        "id": "12692651786",
+        "properties": {
+            "amount": "44400",
+            "closedate": null,
+            "createdate": "2021-10-20T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.060Z",
+            "hs_object_id": "12692651786",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-10-20T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.060Z",
+        "archived": false
+    },
+    {
+        "id": "12692657442",
+        "properties": {
+            "amount": "70000",
+            "closedate": "2023-05-31T20:02:50.164Z",
+            "createdate": "2022-04-27T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.454Z",
+            "hs_object_id": "12692657442",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-27T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.454Z",
+        "archived": false
+    },
+    {
+        "id": "12692661599",
+        "properties": {
+            "amount": "12650",
+            "closedate": "2023-09-14T19:15:07.048Z",
+            "createdate": "2022-12-21T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.543Z",
+            "hs_object_id": "12692661599",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-12-21T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.543Z",
+        "archived": false
+    },
+    {
+        "id": "12692667985",
+        "properties": {
+            "amount": "973500",
+            "closedate": null,
+            "createdate": "2022-03-31T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.906Z",
+            "hs_object_id": "12692667985",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-31T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.906Z",
+        "archived": false
+    },
+    {
+        "id": "12692667986",
+        "properties": {
+            "amount": "6500",
+            "closedate": null,
+            "createdate": "2022-07-11T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.542Z",
+            "hs_object_id": "12692667986",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-11T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.542Z",
+        "archived": false
+    },
+    {
+        "id": "12692673358",
+        "properties": {
+            "amount": "25000",
+            "closedate": null,
+            "createdate": "2022-05-31T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.453Z",
+            "hs_object_id": "12692673358",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-05-31T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.453Z",
+        "archived": false
+    },
+    {
+        "id": "12692673359",
+        "properties": {
+            "amount": "10789.2",
+            "closedate": null,
+            "createdate": "2021-03-04T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.640Z",
+            "hs_object_id": "12692673359",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-03-04T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.640Z",
+        "archived": false
+    },
+    {
+        "id": "12692679340",
+        "properties": {
+            "amount": "5000",
+            "closedate": "2023-05-31T20:02:36.111Z",
+            "createdate": "2022-11-28T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-05T21:42:28.014Z",
+            "hs_object_id": "12692679340",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-11-28T06:00:00Z",
+        "updatedAt": "2024-08-05T21:42:28.014Z",
+        "archived": false
+    },
+    {
+        "id": "12692679341",
+        "properties": {
+            "amount": "16500",
+            "closedate": "2023-09-01T16:41:48.628Z",
+            "createdate": "2023-01-19T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:24.326Z",
+            "hs_object_id": "12692679341",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-19T06:00:00Z",
+        "updatedAt": "2025-04-11T13:50:24.326Z",
+        "archived": false
+    },
+    {
+        "id": "12692679342",
+        "properties": {
+            "amount": "9000",
+            "closedate": null,
+            "createdate": "2022-11-30T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.405Z",
+            "hs_object_id": "12692679342",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-11-30T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.405Z",
+        "archived": false
+    },
+    {
+        "id": "12692679343",
+        "properties": {
+            "amount": "20000",
+            "closedate": null,
+            "createdate": "2022-03-14T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.542Z",
+            "hs_object_id": "12692679343",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-14T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.542Z",
+        "archived": false
+    },
+    {
+        "id": "12692679344",
+        "properties": {
+            "amount": "4550",
+            "closedate": null,
+            "createdate": "2021-11-03T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-03-25T17:12:50.732Z",
+            "hs_object_id": "12692679344",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-11-03T05:00:00Z",
+        "updatedAt": "2024-03-25T17:12:50.732Z",
+        "archived": false
+    },
+    {
+        "id": "12692685223",
+        "properties": {
+            "amount": "15000",
+            "closedate": null,
+            "createdate": "2021-11-10T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.063Z",
+            "hs_object_id": "12692685223",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-11-10T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.063Z",
+        "archived": false
+    },
+    {
+        "id": "12692685225",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-04-17T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.127Z",
+            "hs_object_id": "12692685225",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-04-17T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.127Z",
+        "archived": false
+    },
+    {
+        "id": "12692691059",
+        "properties": {
+            "amount": "8500",
+            "closedate": null,
+            "createdate": "2021-08-20T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.099Z",
+            "hs_object_id": "12692691059",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-08-20T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.099Z",
+        "archived": false
+    },
+    {
+        "id": "12692691061",
+        "properties": {
+            "amount": "20000",
+            "closedate": null,
+            "createdate": "2021-08-12T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.261Z",
+            "hs_object_id": "12692691061",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-08-12T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.261Z",
+        "archived": false
+    },
+    {
+        "id": "12692691062",
+        "properties": {
+            "amount": "15000",
+            "closedate": null,
+            "createdate": "2022-03-22T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-18T19:52:35.840Z",
+            "hs_object_id": "12692691062",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-22T05:00:00Z",
+        "updatedAt": "2025-02-18T19:52:35.840Z",
+        "archived": false
+    },
+    {
+        "id": "12692701614",
+        "properties": {
+            "amount": "477290",
+            "closedate": null,
+            "createdate": "2022-07-05T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-28T20:20:59.963Z",
+            "hs_object_id": "12692701614",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-05T05:00:00Z",
+        "updatedAt": "2025-01-28T20:20:59.963Z",
+        "archived": false
+    },
+    {
+        "id": "12692701615",
+        "properties": {
+            "amount": "25000",
+            "closedate": null,
+            "createdate": "2020-05-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.563Z",
+            "hs_object_id": "12692701615",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2020-05-19T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.563Z",
+        "archived": false
+    },
+    {
+        "id": "12692707975",
+        "properties": {
+            "amount": "5500",
+            "closedate": null,
+            "createdate": "2022-03-09T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.561Z",
+            "hs_object_id": "12692707975",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-09T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.561Z",
+        "archived": false
+    },
+    {
+        "id": "12692707976",
+        "properties": {
+            "amount": "20000",
+            "closedate": "2023-05-31T20:02:47.093Z",
+            "createdate": "2022-04-09T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.542Z",
+            "hs_object_id": "12692707976",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-09T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.542Z",
+        "archived": false
+    },
+    {
+        "id": "12692707977",
+        "properties": {
+            "amount": "168100",
+            "closedate": null,
+            "createdate": "2023-01-24T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.067Z",
+            "hs_object_id": "12692707977",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-24T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.067Z",
+        "archived": false
+    },
+    {
+        "id": "12692707980",
+        "properties": {
+            "amount": "18000",
+            "closedate": null,
+            "createdate": "2022-04-28T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.906Z",
+            "hs_object_id": "12692707980",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-28T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.906Z",
+        "archived": false
+    },
+    {
+        "id": "12692713854",
+        "properties": {
+            "amount": "5500",
+            "closedate": null,
+            "createdate": "2021-10-26T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.068Z",
+            "hs_object_id": "12692713854",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-10-26T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.068Z",
+        "archived": false
+    },
+    {
+        "id": "12692720420",
+        "properties": {
+            "amount": "37000",
+            "closedate": "2023-10-03T14:46:08.256Z",
+            "createdate": "2023-02-28T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2025-04-11T13:50:04.102Z",
+            "hs_object_id": "12692720420",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-02-28T06:00:00Z",
+        "updatedAt": "2025-04-11T13:50:04.102Z",
+        "archived": false
+    },
+    {
+        "id": "12692720421",
+        "properties": {
+            "amount": "32920",
+            "closedate": "2023-05-08T23:48:17.469Z",
+            "createdate": "2021-10-28T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.559Z",
+            "hs_object_id": "12692720421",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-10-28T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.559Z",
+        "archived": false
+    },
+    {
+        "id": "12692720422",
+        "properties": {
+            "amount": "148720",
+            "closedate": "2023-05-02T14:22:58.266Z",
+            "createdate": "2022-11-16T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-28T20:20:58.891Z",
+            "hs_object_id": "12692720422",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-11-16T06:00:00Z",
+        "updatedAt": "2025-01-28T20:20:58.891Z",
+        "archived": false
+    },
+    {
+        "id": "12692720423",
+        "properties": {
+            "amount": "155650",
+            "closedate": "2023-05-02T14:59:02.761Z",
+            "createdate": "2023-01-24T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.065Z",
+            "hs_object_id": "12692720423",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-24T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.065Z",
+        "archived": false
+    },
+    {
+        "id": "12692720424",
+        "properties": {
+            "amount": "15000",
+            "closedate": null,
+            "createdate": "2021-09-10T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.639Z",
+            "hs_object_id": "12692720424",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-09-10T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.639Z",
+        "archived": false
+    },
+    {
+        "id": "12692723330",
+        "properties": {
+            "amount": "95000",
+            "closedate": "2023-09-11T16:11:53.975Z",
+            "createdate": "2022-08-04T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-04-04T18:35:54.338Z",
+            "hs_object_id": "12692723330",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-08-04T05:00:00Z",
+        "updatedAt": "2025-04-04T18:35:54.338Z",
+        "archived": false
+    },
+    {
+        "id": "12692728366",
+        "properties": {
+            "amount": "75000",
+            "closedate": "2023-05-31T20:03:43.317Z",
+            "createdate": "2021-05-03T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.905Z",
+            "hs_object_id": "12692728366",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-05-03T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.905Z",
+        "archived": false
+    },
+    {
+        "id": "12692728367",
+        "properties": {
+            "amount": "4500",
+            "closedate": "2023-07-19T14:44:44.248Z",
+            "createdate": "2022-08-23T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-04T16:39:07.214Z",
+            "hs_object_id": "12692728367",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-08-23T05:00:00Z",
+        "updatedAt": "2025-02-04T16:39:07.214Z",
+        "archived": false
+    },
+    {
+        "id": "12692728368",
+        "properties": {
+            "amount": "10000",
+            "closedate": null,
+            "createdate": "2021-12-01T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.561Z",
+            "hs_object_id": "12692728368",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-12-01T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.561Z",
+        "archived": false
+    },
+    {
+        "id": "12692734643",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2022-03-16T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.906Z",
+            "hs_object_id": "12692734643",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-16T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.906Z",
+        "archived": false
+    },
+    {
+        "id": "12692734644",
+        "properties": {
+            "amount": "5500",
+            "closedate": "2023-05-31T20:03:48.646Z",
+            "createdate": "2022-01-10T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.717Z",
+            "hs_object_id": "12692734644",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-01-10T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.717Z",
+        "archived": false
+    },
+    {
+        "id": "12692734725",
+        "properties": {
+            "amount": "30000",
+            "closedate": null,
+            "createdate": "2021-10-28T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-03-20T15:17:29.998Z",
+            "hs_object_id": "12692734725",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-10-28T05:00:00Z",
+        "updatedAt": "2025-03-20T15:17:29.998Z",
+        "archived": false
+    },
+    {
+        "id": "12692734726",
+        "properties": {
+            "amount": "10000",
+            "closedate": null,
+            "createdate": "2021-03-08T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.711Z",
+            "hs_object_id": "12692734726",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-03-08T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.711Z",
+        "archived": false
+    },
+    {
+        "id": "12692739183",
+        "properties": {
+            "amount": "8500",
+            "closedate": null,
+            "createdate": "2021-11-30T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.904Z",
+            "hs_object_id": "12692739183",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-11-30T06:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.904Z",
+        "archived": false
+    },
+    {
+        "id": "12692739184",
+        "properties": {
+            "amount": "25000",
+            "closedate": "2023-10-10T14:30:46.102Z",
+            "createdate": "2022-11-17T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:36.161Z",
+            "hs_object_id": "12692739184",
+            "hubspot_owner_id": "354640248",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-11-17T06:00:00Z",
+        "updatedAt": "2025-04-11T13:50:36.161Z",
+        "archived": false
+    },
+    {
+        "id": "12692745484",
+        "properties": {
+            "amount": "49808",
+            "closedate": "2023-05-31T20:02:18.317Z",
+            "createdate": "2022-08-01T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.907Z",
+            "hs_object_id": "12692745484",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-08-01T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.907Z",
+        "archived": false
+    },
+    {
+        "id": "12692745485",
+        "properties": {
+            "amount": "4500",
+            "closedate": "2023-05-31T20:01:34.599Z",
+            "createdate": "2022-08-01T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:34:59.906Z",
+            "hs_object_id": "12692745485",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-08-01T05:00:00Z",
+        "updatedAt": "2024-01-16T16:34:59.906Z",
+        "archived": false
+    },
+    {
+        "id": "12692745486",
+        "properties": {
+            "amount": "543180",
+            "closedate": "2023-05-16T14:13:54.624Z",
+            "createdate": "2023-03-21T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.543Z",
+            "hs_object_id": "12692745486",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-03-21T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.543Z",
+        "archived": false
+    },
+    {
+        "id": "12692751502",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-12-14T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.710Z",
+            "hs_object_id": "12692751502",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-12-14T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.710Z",
+        "archived": false
+    },
+    {
+        "id": "12692751503",
+        "properties": {
+            "amount": "30000",
+            "closedate": "2023-05-31T20:03:28.944Z",
+            "createdate": "2022-02-10T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.639Z",
+            "hs_object_id": "12692751503",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-02-10T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.639Z",
+        "archived": false
+    },
+    {
+        "id": "12692762014",
+        "properties": {
+            "amount": "6000",
+            "closedate": "2023-05-31T20:02:26.377Z",
+            "createdate": "2022-09-07T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.563Z",
+            "hs_object_id": "12692762014",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-09-07T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.563Z",
+        "archived": false
+    },
+    {
+        "id": "12692762015",
+        "properties": {
+            "amount": "33000",
+            "closedate": null,
+            "createdate": "2022-07-27T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.058Z",
+            "hs_object_id": "12692762015",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-27T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.058Z",
+        "archived": false
+    },
+    {
+        "id": "12692762017",
+        "properties": {
+            "amount": "75000",
+            "closedate": null,
+            "createdate": "2021-05-20T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-23T15:38:21.616Z",
+            "hs_object_id": "12692762017",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-05-20T05:00:00Z",
+        "updatedAt": "2025-01-23T15:38:21.616Z",
+        "archived": false
+    },
+    {
+        "id": "12692767779",
+        "properties": {
+            "amount": "75000",
+            "closedate": null,
+            "createdate": "2021-11-10T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.054Z",
+            "hs_object_id": "12692767779",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-11-10T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.054Z",
+        "archived": false
+    },
+    {
+        "id": "12692767780",
+        "properties": {
+            "amount": "57000",
+            "closedate": "2023-10-02T19:20:10.531Z",
+            "createdate": "2022-12-29T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2025-04-01T18:44:17.418Z",
+            "hs_object_id": "12692767780",
+            "hubspot_owner_id": "354640247",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-12-29T06:00:00Z",
+        "updatedAt": "2025-04-01T18:44:17.418Z",
+        "archived": false
+    },
+    {
+        "id": "12692767781",
+        "properties": {
+            "amount": "12500",
+            "closedate": null,
+            "createdate": "2021-06-04T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.054Z",
+            "hs_object_id": "12692767781",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-06-04T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.054Z",
+        "archived": false
+    },
+    {
+        "id": "12692773383",
+        "properties": {
+            "amount": "71725",
+            "closedate": "2023-07-19T14:37:02.834Z",
+            "createdate": "2022-10-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-05T16:53:29.640Z",
+            "hs_object_id": "12692773383",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-10-19T05:00:00Z",
+        "updatedAt": "2024-08-05T16:53:29.640Z",
+        "archived": false
+    },
+    {
+        "id": "12692773384",
+        "properties": {
+            "amount": "14850",
+            "closedate": null,
+            "createdate": "2022-06-29T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.541Z",
+            "hs_object_id": "12692773384",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-06-29T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.541Z",
+        "archived": false
+    },
+    {
+        "id": "12692777861",
+        "properties": {
+            "amount": "19300",
+            "closedate": "2023-07-19T14:41:14.170Z",
+            "createdate": "2022-09-21T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.541Z",
+            "hs_object_id": "12692777861",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-09-21T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.541Z",
+        "archived": false
+    },
+    {
+        "id": "12692777862",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-11-18T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-03-25T17:12:50.406Z",
+            "hs_object_id": "12692777862",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-11-18T06:00:00Z",
+        "updatedAt": "2024-03-25T17:12:50.406Z",
+        "archived": false
+    },
+    {
+        "id": "12692784304",
+        "properties": {
+            "amount": "15000",
+            "closedate": "2023-05-31T20:03:41.145Z",
+            "createdate": "2021-07-21T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.055Z",
+            "hs_object_id": "12692784304",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-07-21T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.055Z",
+        "archived": false
+    },
+    {
+        "id": "12692784306",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-03-17T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-30T19:48:41.747Z",
+            "hs_object_id": "12692784306",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-03-17T05:00:00Z",
+        "updatedAt": "2025-01-30T19:48:41.747Z",
+        "archived": false
+    },
+    {
+        "id": "12692790143",
+        "properties": {
+            "amount": "10000",
+            "closedate": null,
+            "createdate": "2023-01-17T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.640Z",
+            "hs_object_id": "12692790143",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-17T06:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.640Z",
+        "archived": false
+    },
+    {
+        "id": "12692790144",
+        "properties": {
+            "amount": "1295650",
+            "closedate": null,
+            "createdate": "2022-03-25T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-06-03T15:12:25.526Z",
+            "hs_object_id": "12692790144",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-25T05:00:00Z",
+        "updatedAt": "2024-06-03T15:12:25.526Z",
+        "archived": false
+    },
+    {
+        "id": "12692790145",
+        "properties": {
+            "amount": "120000",
+            "closedate": null,
+            "createdate": "2021-10-24T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-31T17:27:40.939Z",
+            "hs_object_id": "12692790145",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-10-24T05:00:00Z",
+        "updatedAt": "2024-01-31T17:27:40.939Z",
+        "archived": false
+    },
+    {
+        "id": "12692790146",
+        "properties": {
+            "amount": "20000",
+            "closedate": "2023-05-31T20:03:54.967Z",
+            "createdate": "2022-03-16T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-05T21:42:28.999Z",
+            "hs_object_id": "12692790146",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-03-16T05:00:00Z",
+        "updatedAt": "2024-08-05T21:42:28.999Z",
+        "archived": false
+    },
+    {
+        "id": "12692795908",
+        "properties": {
+            "amount": "75000",
+            "closedate": null,
+            "createdate": "2021-04-12T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.125Z",
+            "hs_object_id": "12692795908",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-04-12T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.125Z",
+        "archived": false
+    },
+    {
+        "id": "12692801078",
+        "properties": {
+            "amount": "26922",
+            "closedate": "2023-11-13T14:55:37.886Z",
+            "createdate": "2023-01-24T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:45.846Z",
+            "hs_object_id": "12692801078",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-01-24T06:00:00Z",
+        "updatedAt": "2025-04-11T13:50:45.846Z",
+        "archived": false
+    },
+    {
+        "id": "12692801079",
+        "properties": {
+            "amount": "6000",
+            "closedate": "2023-07-19T14:43:02.162Z",
+            "createdate": "2022-09-20T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-23T15:01:24.769Z",
+            "hs_object_id": "12692801079",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-09-20T05:00:00Z",
+        "updatedAt": "2025-05-23T15:01:24.769Z",
+        "archived": false
+    },
+    {
+        "id": "12692807040",
+        "properties": {
+            "amount": "51562.5",
+            "closedate": "2023-07-19T14:45:15.112Z",
+            "createdate": "2022-07-18T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-05T21:42:18.386Z",
+            "hs_object_id": "12692807040",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-18T05:00:00Z",
+        "updatedAt": "2024-08-05T21:42:18.386Z",
+        "archived": false
+    },
+    {
+        "id": "12692817754",
+        "properties": {
+            "amount": "35100",
+            "closedate": null,
+            "createdate": "2021-05-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-04T16:39:04.140Z",
+            "hs_object_id": "12692817754",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-05-19T05:00:00Z",
+        "updatedAt": "2025-02-04T16:39:04.140Z",
+        "archived": false
+    },
+    {
+        "id": "12692817756",
+        "properties": {
+            "amount": "433333",
+            "closedate": null,
+            "createdate": "2021-10-05T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-14T22:37:46.453Z",
+            "hs_object_id": "12692817756",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-10-05T05:00:00Z",
+        "updatedAt": "2025-02-14T22:37:46.453Z",
+        "archived": false
+    },
+    {
+        "id": "12692823668",
+        "properties": {
+            "amount": "26500",
+            "closedate": null,
+            "createdate": "2022-04-11T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2025-04-04T17:39:44.017Z",
+            "hs_object_id": "12692823668",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-04-11T05:00:00Z",
+        "updatedAt": "2025-04-04T17:39:44.017Z",
+        "archived": false
+    },
+    {
+        "id": "12692823669",
+        "properties": {
+            "amount": "115500",
+            "closedate": "2023-05-31T20:03:34.043Z",
+            "createdate": "2022-02-01T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-30T17:27:33.004Z",
+            "hs_object_id": "12692823669",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-02-01T06:00:00Z",
+        "updatedAt": "2025-01-30T17:27:33.004Z",
+        "archived": false
+    },
+    {
+        "id": "12692829870",
+        "properties": {
+            "amount": "111650",
+            "closedate": "2023-05-31T20:02:59.263Z",
+            "createdate": "2022-06-16T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-08-05T21:42:31.403Z",
+            "hs_object_id": "12692829870",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-06-16T05:00:00Z",
+        "updatedAt": "2024-08-05T21:42:31.403Z",
+        "archived": false
+    },
+    {
+        "id": "12692834210",
+        "properties": {
+            "amount": "27350",
+            "closedate": null,
+            "createdate": "2022-07-06T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-02-12T14:43:49.904Z",
+            "hs_object_id": "12692834210",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-07-06T05:00:00Z",
+        "updatedAt": "2025-02-12T14:43:49.904Z",
+        "archived": false
+    },
+    {
+        "id": "12692834211",
+        "properties": {
+            "amount": "103000",
+            "closedate": null,
+            "createdate": "2022-09-19T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.453Z",
+            "hs_object_id": "12692834211",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-09-19T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.453Z",
+        "archived": false
+    },
+    {
+        "id": "12692834212",
+        "properties": {
+            "amount": "53300",
+            "closedate": "2023-05-31T20:01:50.561Z",
+            "createdate": "2022-08-12T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.101Z",
+            "hs_object_id": "12692834212",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-08-12T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.101Z",
+        "archived": false
+    },
+    {
+        "id": "12692834213",
+        "properties": {
+            "amount": "0",
+            "closedate": null,
+            "createdate": "2021-03-15T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.405Z",
+            "hs_object_id": "12692834213",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-03-15T05:00:00Z",
+        "updatedAt": "2024-01-16T16:35:00.405Z",
+        "archived": false
+    },
+    {
+        "id": "12692834214",
+        "properties": {
+            "amount": "115000",
+            "closedate": "2023-09-11T16:11:51.858Z",
+            "createdate": "2022-11-14T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-04-04T18:35:54.691Z",
+            "hs_object_id": "12692834214",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2022-11-14T06:00:00Z",
+        "updatedAt": "2025-04-04T18:35:54.691Z",
+        "archived": false
+    },
+    {
+        "id": "12791470723",
+        "properties": {
+            "amount": "47500",
+            "closedate": "2023-09-01T16:42:29.506Z",
+            "createdate": "2023-03-31T14:35:46.332Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:01.981Z",
+            "hs_object_id": "12791470723",
+            "hubspot_owner_id": "354640253",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-03-31T14:35:46.332Z",
+        "updatedAt": "2025-04-11T13:50:01.981Z",
+        "archived": false
+    },
+    {
+        "id": "12883581794",
+        "properties": {
+            "amount": "6525",
+            "closedate": "2023-05-16T14:22:48.079Z",
+            "createdate": "2023-04-07T14:48:57.120Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-08-15T14:31:06.502Z",
+            "hs_object_id": "12883581794",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-04-07T14:48:57.120Z",
+        "updatedAt": "2023-08-15T14:31:06.502Z",
+        "archived": false
+    },
+    {
+        "id": "13118606389",
+        "properties": {
+            "amount": "4800",
+            "closedate": "2023-10-03T14:46:17.454Z",
+            "createdate": "2023-04-24T16:16:48.820Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:11.414Z",
+            "hs_object_id": "13118606389",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-04-24T16:16:48.820Z",
+        "updatedAt": "2025-04-11T13:50:11.414Z",
+        "archived": false
+    },
+    {
+        "id": "13125239618",
+        "properties": {
+            "amount": "33750",
+            "closedate": "2023-07-19T15:17:00.677Z",
+            "createdate": "2023-04-24T17:30:21.239Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-04T16:41:52.892Z",
+            "hs_object_id": "13125239618",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-04-24T17:30:21.239Z",
+        "updatedAt": "2025-02-04T16:41:52.892Z",
+        "archived": false
+    },
+    {
+        "id": "13127842564",
+        "properties": {
+            "amount": "62750",
+            "closedate": "2023-07-06T23:23:27.797Z",
+            "createdate": "2023-04-24T22:34:37.897Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-24T20:03:22.750Z",
+            "hs_object_id": "13127842564",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-04-24T22:34:37.897Z",
+        "updatedAt": "2025-01-24T20:03:22.750Z",
+        "archived": false
+    },
+    {
+        "id": "13128739984",
+        "properties": {
+            "amount": "66000",
+            "closedate": "2023-07-06T14:27:23.947Z",
+            "createdate": "2023-04-25T01:05:01.475Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-24T16:45:49.321Z",
+            "hs_object_id": "13128739984",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-04-25T01:05:01.475Z",
+        "updatedAt": "2025-01-24T16:45:49.321Z",
+        "archived": false
+    },
+    {
+        "id": "13129088301",
+        "properties": {
+            "amount": "33200",
+            "closedate": "2023-05-31T19:59:19.234Z",
+            "createdate": "2023-04-25T05:38:55.725Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-04T21:21:04.693Z",
+            "hs_object_id": "13129088301",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-04-25T05:38:55.725Z",
+        "updatedAt": "2025-04-04T21:21:04.693Z",
+        "archived": false
+    },
+    {
+        "id": "13130896913",
+        "properties": {
+            "amount": "16500",
+            "closedate": "2023-05-31T20:03:36.876Z",
+            "createdate": "2021-07-30T05:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-04T21:21:05.005Z",
+            "hs_object_id": "13130896913",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2021-07-30T05:00:00Z",
+        "updatedAt": "2025-04-04T21:21:05.005Z",
+        "archived": false
+    },
+    {
+        "id": "13136128349",
+        "properties": {
+            "amount": "5850",
+            "closedate": "2023-07-18T16:52:24.902Z",
+            "createdate": "2023-04-25T17:40:07.243Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-08-15T14:31:06.018Z",
+            "hs_object_id": "13136128349",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-04-25T17:40:07.243Z",
+        "updatedAt": "2023-08-15T14:31:06.018Z",
+        "archived": false
+    },
+    {
+        "id": "13160766282",
+        "properties": {
+            "amount": "12000",
+            "closedate": "2023-10-03T14:46:12.055Z",
+            "createdate": "2023-02-14T06:00:00Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:10.162Z",
+            "hs_object_id": "13160766282",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-02-14T06:00:00Z",
+        "updatedAt": "2025-04-11T13:50:10.162Z",
+        "archived": false
+    },
+    {
+        "id": "13194815401",
+        "properties": {
+            "amount": "36000",
+            "closedate": "2023-11-16T13:57:17.661Z",
+            "createdate": "2023-05-01T14:28:59.543Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-22T19:22:18.899Z",
+            "hs_object_id": "13194815401",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-01T14:28:59.543Z",
+        "updatedAt": "2025-04-22T19:22:18.899Z",
+        "archived": false
+    },
+    {
+        "id": "13207567949",
+        "properties": {
+            "amount": "2550",
+            "closedate": "2023-06-01T13:52:04.757Z",
+            "createdate": "2023-05-02T17:33:10.418Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-16T16:35:00.558Z",
+            "hs_object_id": "13207567949",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-02T17:33:10.418Z",
+        "updatedAt": "2024-01-16T16:35:00.558Z",
+        "archived": false
+    },
+    {
+        "id": "13267581862",
+        "properties": {
+            "amount": "3850",
+            "closedate": "2023-07-19T15:49:08.839Z",
+            "createdate": "2023-05-08T15:00:05.569Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-08-15T14:31:07.561Z",
+            "hs_object_id": "13267581862",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-08T15:00:05.569Z",
+        "updatedAt": "2023-08-15T14:31:07.561Z",
+        "archived": false
+    },
+    {
+        "id": "13273875499",
+        "properties": {
+            "amount": "8000",
+            "closedate": "2023-11-13T15:13:09.558Z",
+            "createdate": "2023-05-09T05:52:05.355Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-26T12:00:51.102Z",
+            "hs_object_id": "13273875499",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-09T05:52:05.355Z",
+        "updatedAt": "2025-05-26T12:00:51.102Z",
+        "archived": false
+    },
+    {
+        "id": "13304408209",
+        "properties": {
+            "amount": "222575",
+            "closedate": "2023-10-02T15:05:00.529Z",
+            "createdate": "2023-05-11T15:41:25.917Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:49:44.923Z",
+            "hs_object_id": "13304408209",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-11T15:41:25.917Z",
+        "updatedAt": "2025-04-11T13:49:44.923Z",
+        "archived": false
+    },
+    {
+        "id": "13306404748",
+        "properties": {
+            "amount": "33000",
+            "closedate": "2023-11-13T15:13:05.454Z",
+            "createdate": "2023-05-11T20:15:08.149Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-22T20:49:09.066Z",
+            "hs_object_id": "13306404748",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-11T20:15:08.149Z",
+        "updatedAt": "2025-05-22T20:49:09.066Z",
+        "archived": false
+    },
+    {
+        "id": "13315279775",
+        "properties": {
+            "amount": "24000",
+            "closedate": "2023-09-15T14:13:22.296Z",
+            "createdate": "2023-05-12T15:39:39.756Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-05-22T21:05:17.957Z",
+            "hs_object_id": "13315279775",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-12T15:39:39.756Z",
+        "updatedAt": "2025-05-22T21:05:17.957Z",
+        "archived": false
+    },
+    {
+        "id": "13332380288",
+        "properties": {
+            "amount": "82530",
+            "closedate": "2023-10-24T14:37:45.360Z",
+            "createdate": "2023-05-14T19:53:59.036Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:47:54.316Z",
+            "hs_object_id": "13332380288",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-14T19:53:59.036Z",
+        "updatedAt": "2025-04-11T13:47:54.316Z",
+        "archived": false
+    },
+    {
+        "id": "13340356186",
+        "properties": {
+            "amount": "309500",
+            "closedate": "2023-06-20T23:06:07.652Z",
+            "createdate": "2023-05-15T16:32:55.569Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-24T21:54:01.377Z",
+            "hs_object_id": "13340356186",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-15T16:32:55.569Z",
+        "updatedAt": "2025-01-24T21:54:01.377Z",
+        "archived": false
+    },
+    {
+        "id": "13359455080",
+        "properties": {
+            "amount": "57525",
+            "closedate": "2023-09-01T15:26:18.828Z",
+            "createdate": "2023-05-16T20:20:32.498Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-22T21:05:55.593Z",
+            "hs_object_id": "13359455080",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-16T20:20:32.498Z",
+        "updatedAt": "2025-05-22T21:05:55.593Z",
+        "archived": false
+    },
+    {
+        "id": "13440845625",
+        "properties": {
+            "amount": "17580",
+            "closedate": "2023-12-31T15:18:33.154Z",
+            "createdate": "2023-05-25T05:31:31.275Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-05-22T20:55:19.937Z",
+            "hs_object_id": "13440845625",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-25T05:31:31.275Z",
+        "updatedAt": "2025-05-22T20:55:19.937Z",
+        "archived": false
+    },
+    {
+        "id": "13448796724",
+        "properties": {
+            "amount": "130500",
+            "closedate": "2023-06-20T23:06:19.709Z",
+            "createdate": "2023-05-25T20:19:16.092Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-24T21:54:00.331Z",
+            "hs_object_id": "13448796724",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-25T20:19:16.092Z",
+        "updatedAt": "2025-01-24T21:54:00.331Z",
+        "archived": false
+    },
+    {
+        "id": "13527589501",
+        "properties": {
+            "amount": "15000",
+            "closedate": "2023-10-02T15:13:45.703Z",
+            "createdate": "2023-05-31T20:14:24.483Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:49:09.312Z",
+            "hs_object_id": "13527589501",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-05-31T20:14:24.483Z",
+        "updatedAt": "2025-04-11T13:49:09.312Z",
+        "archived": false
+    },
+    {
+        "id": "13609853255",
+        "properties": {
+            "amount": "350000",
+            "closedate": "2024-03-05T15:41:03.496Z",
+            "createdate": "2023-06-07T04:25:19.805Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-23T14:44:06.595Z",
+            "hs_object_id": "13609853255",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-07T04:25:19.805Z",
+        "updatedAt": "2025-05-23T14:44:06.595Z",
+        "archived": false
+    },
+    {
+        "id": "13610683724",
+        "properties": {
+            "amount": "17500",
+            "closedate": "2025-01-17T18:16:59.264Z",
+            "createdate": "2023-06-07T04:30:46.298Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-17T18:17:07.157Z",
+            "hs_object_id": "13610683724",
+            "hubspot_owner_id": "326478439",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-07T04:30:46.298Z",
+        "updatedAt": "2025-01-17T18:17:07.157Z",
+        "archived": false
+    },
+    {
+        "id": "13635605418",
+        "properties": {
+            "amount": "70000",
+            "closedate": "2023-10-03T20:24:26.129Z",
+            "createdate": "2023-06-08T14:30:41.750Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2023-10-03T20:24:30.899Z",
+            "hs_object_id": "13635605418",
+            "hubspot_owner_id": "354640247",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-08T14:30:41.750Z",
+        "updatedAt": "2023-10-03T20:24:30.899Z",
+        "archived": false
+    },
+    {
+        "id": "13677361930",
+        "properties": {
+            "amount": "6500",
+            "closedate": "2023-07-26T14:24:53.444Z",
+            "createdate": "2023-06-12T13:43:33.199Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-08-15T14:31:06.631Z",
+            "hs_object_id": "13677361930",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-12T13:43:33.199Z",
+        "updatedAt": "2023-08-15T14:31:06.631Z",
+        "archived": false
+    },
+    {
+        "id": "13692432809",
+        "properties": {
+            "amount": "13650",
+            "closedate": "2024-01-22T15:22:21.707Z",
+            "createdate": "2023-06-13T17:55:29.614Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:49:04.264Z",
+            "hs_object_id": "13692432809",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-13T17:55:29.614Z",
+        "updatedAt": "2025-04-11T13:49:04.264Z",
+        "archived": false
+    },
+    {
+        "id": "13731783792",
+        "properties": {
+            "amount": "223000",
+            "closedate": "2023-11-03T18:26:47.111Z",
+            "createdate": "2023-06-15T21:25:11.177Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-05-07T14:11:10.504Z",
+            "hs_object_id": "13731783792",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-15T21:25:11.177Z",
+        "updatedAt": "2024-05-07T14:11:10.504Z",
+        "archived": false
+    },
+    {
+        "id": "13750460498",
+        "properties": {
+            "amount": "76398",
+            "closedate": "2023-06-26T18:42:57.355Z",
+            "createdate": "2023-06-16T19:24:12.083Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-03-13T13:38:13.492Z",
+            "hs_object_id": "13750460498",
+            "hubspot_owner_id": "289436566",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-16T19:24:12.083Z",
+        "updatedAt": "2025-03-13T13:38:13.492Z",
+        "archived": false
+    },
+    {
+        "id": "13808321969",
+        "properties": {
+            "amount": "18000",
+            "closedate": "2023-07-19T19:26:22.417Z",
+            "createdate": "2023-06-21T18:15:33.674Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-08-15T14:31:06.502Z",
+            "hs_object_id": "13808321969",
+            "hubspot_owner_id": "326478439",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-21T18:15:33.674Z",
+        "updatedAt": "2023-08-15T14:31:06.502Z",
+        "archived": false
+    },
+    {
+        "id": "13868264814",
+        "properties": {
+            "amount": "8970",
+            "closedate": "2023-07-06T14:23:36.521Z",
+            "createdate": "2023-06-26T16:30:10.191Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-08-15T14:31:06.029Z",
+            "hs_object_id": "13868264814",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-06-26T16:30:10.191Z",
+        "updatedAt": "2023-08-15T14:31:06.029Z",
+        "archived": false
+    },
+    {
+        "id": "14229069115",
+        "properties": {
+            "amount": "30900",
+            "closedate": "2023-10-02T15:05:52.440Z",
+            "createdate": "2023-07-19T14:26:42.690Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-08T12:13:18.564Z",
+            "hs_object_id": "14229069115",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-07-19T14:26:42.690Z",
+        "updatedAt": "2025-05-08T12:13:18.564Z",
+        "archived": false
+    },
+    {
+        "id": "14402920991",
+        "properties": {
+            "amount": "27000",
+            "closedate": "2024-07-03T13:05:35.811Z",
+            "createdate": "2023-07-31T14:08:29.344Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:48:57.437Z",
+            "hs_object_id": "14402920991",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-07-31T14:08:29.344Z",
+        "updatedAt": "2025-04-11T13:48:57.437Z",
+        "archived": false
+    },
+    {
+        "id": "14578932635",
+        "properties": {
+            "amount": "32000",
+            "closedate": "2023-12-18T16:30:11.528Z",
+            "createdate": "2023-08-11T20:38:35.582Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-01-30T15:22:12.339Z",
+            "hs_object_id": "14578932635",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-11T20:38:35.582Z",
+        "updatedAt": "2024-01-30T15:22:12.339Z",
+        "archived": false
+    },
+    {
+        "id": "14579203653",
+        "properties": {
+            "amount": null,
+            "closedate": "2023-09-22T18:43:10.669Z",
+            "createdate": "2023-08-11T20:47:46.193Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-16T14:46:29.533Z",
+            "hs_object_id": "14579203653",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-11T20:47:46.193Z",
+        "updatedAt": "2025-04-16T14:46:29.533Z",
+        "archived": false
+    },
+    {
+        "id": "14579203742",
+        "properties": {
+            "amount": "106000",
+            "closedate": "2024-03-07T16:39:30.737Z",
+            "createdate": "2023-08-11T20:48:59.272Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:46:37.811Z",
+            "hs_object_id": "14579203742",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-11T20:48:59.272Z",
+        "updatedAt": "2025-04-11T13:46:37.811Z",
+        "archived": false
+    },
+    {
+        "id": "14785725861",
+        "properties": {
+            "amount": "26000",
+            "closedate": "2023-10-17T15:57:25.006Z",
+            "createdate": "2023-08-22T19:45:31.240Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-07-11T14:57:55.429Z",
+            "hs_object_id": "14785725861",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-22T19:45:31.240Z",
+        "updatedAt": "2024-07-11T14:57:55.429Z",
+        "archived": false
+    },
+    {
+        "id": "14785736457",
+        "properties": {
+            "amount": "1750",
+            "closedate": "2024-01-22T16:52:39.107Z",
+            "createdate": "2023-08-22T19:25:21.829Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:46:27.742Z",
+            "hs_object_id": "14785736457",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-22T19:25:21.829Z",
+        "updatedAt": "2025-04-11T13:46:27.742Z",
+        "archived": false
+    },
+    {
+        "id": "14785924008",
+        "properties": {
+            "amount": "95000",
+            "closedate": "2023-09-19T14:09:50.421Z",
+            "createdate": "2023-08-22T19:58:18.785Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-23T15:01:08.944Z",
+            "hs_object_id": "14785924008",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-22T19:58:18.785Z",
+        "updatedAt": "2025-05-23T15:01:08.944Z",
+        "archived": false
+    },
+    {
+        "id": "14786207754",
+        "properties": {
+            "amount": null,
+            "closedate": "2024-01-22T15:23:18.465Z",
+            "createdate": "2023-08-22T20:28:03.420Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-26T22:50:46.421Z",
+            "hs_object_id": "14786207754",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-22T20:28:03.420Z",
+        "updatedAt": "2025-05-26T22:50:46.421Z",
+        "archived": false
+    },
+    {
+        "id": "14786208004",
+        "properties": {
+            "amount": null,
+            "closedate": "2024-01-22T15:22:18.139Z",
+            "createdate": "2023-08-22T20:29:52.493Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-26T22:50:44.118Z",
+            "hs_object_id": "14786208004",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-22T20:29:52.493Z",
+        "updatedAt": "2025-05-26T22:50:44.118Z",
+        "archived": false
+    },
+    {
+        "id": "14795321646",
+        "properties": {
+            "amount": "43000",
+            "closedate": "2023-09-26T18:45:53.692Z",
+            "createdate": "2023-08-23T17:54:07.646Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:46:17.538Z",
+            "hs_object_id": "14795321646",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-23T17:54:07.646Z",
+        "updatedAt": "2025-04-11T13:46:17.538Z",
+        "archived": false
+    },
+    {
+        "id": "14796012827",
+        "properties": {
+            "amount": "59375",
+            "closedate": "2024-01-09T20:07:24.891Z",
+            "createdate": "2023-08-23T19:19:11.505Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:05:03.599Z",
+            "hs_object_id": "14796012827",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-23T19:19:11.505Z",
+        "updatedAt": "2025-04-11T14:05:03.599Z",
+        "archived": false
+    },
+    {
+        "id": "14920562711",
+        "properties": {
+            "amount": "30000",
+            "closedate": "2023-11-17T21:01:45.871Z",
+            "createdate": "2023-08-31T17:11:19.487Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-03T19:22:34.170Z",
+            "hs_object_id": "14920562711",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-08-31T17:11:19.487Z",
+        "updatedAt": "2025-04-03T19:22:34.170Z",
+        "archived": false
+    },
+    {
+        "id": "15020616803",
+        "properties": {
+            "amount": "42000",
+            "closedate": "2023-10-06T13:45:39.552Z",
+            "createdate": "2023-09-06T13:26:24.500Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-10-06T13:45:47.300Z",
+            "hs_object_id": "15020616803",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-09-06T13:26:24.500Z",
+        "updatedAt": "2023-10-06T13:45:47.300Z",
+        "archived": false
+    },
+    {
+        "id": "15124919414",
+        "properties": {
+            "amount": "111980",
+            "closedate": "2023-09-15T13:24:24.513Z",
+            "createdate": "2023-09-12T15:56:55.087Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2023-10-10T14:33:14.745Z",
+            "hs_object_id": "15124919414",
+            "hubspot_owner_id": "354640253",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-09-12T15:56:55.087Z",
+        "updatedAt": "2023-10-10T14:33:14.745Z",
+        "archived": false
+    },
+    {
+        "id": "15235278262",
+        "properties": {
+            "amount": "42875",
+            "closedate": "2024-03-05T15:34:28.429Z",
+            "createdate": "2023-09-19T14:32:49.490Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:46:12.911Z",
+            "hs_object_id": "15235278262",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-09-19T14:32:49.490Z",
+        "updatedAt": "2025-04-11T13:46:12.911Z",
+        "archived": false
+    },
+    {
+        "id": "15249026098",
+        "properties": {
+            "amount": "110000",
+            "closedate": "2023-11-16T16:19:42.487Z",
+            "createdate": "2023-09-20T14:40:00.182Z",
+            "dealstage": "closedlost",
+            "dealtype": null,
+            "hs_lastmodifieddate": "2025-05-22T20:56:00.678Z",
+            "hs_object_id": "15249026098",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-09-20T14:40:00.182Z",
+        "updatedAt": "2025-05-22T20:56:00.678Z",
+        "archived": false
+    },
+    {
+        "id": "15330291070",
+        "properties": {
+            "amount": "73750",
+            "closedate": "2024-01-02T16:02:14.283Z",
+            "createdate": "2023-09-26T17:56:41.462Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-22T20:56:48.568Z",
+            "hs_object_id": "15330291070",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-09-26T17:56:41.462Z",
+        "updatedAt": "2025-05-22T20:56:48.568Z",
+        "archived": false
+    },
+    {
+        "id": "15445075604",
+        "properties": {
+            "amount": "77750",
+            "closedate": "2023-10-27T18:15:41.884Z",
+            "createdate": "2023-10-04T15:09:20.257Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:02:14.986Z",
+            "hs_object_id": "15445075604",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-10-04T15:09:20.257Z",
+        "updatedAt": "2025-04-11T14:02:14.986Z",
+        "archived": false
+    },
+    {
+        "id": "15495163666",
+        "properties": {
+            "amount": "101400",
+            "closedate": "2023-10-27T18:05:52.246Z",
+            "createdate": "2023-10-06T18:31:34.036Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:02:07.539Z",
+            "hs_object_id": "15495163666",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-10-06T18:31:34.036Z",
+        "updatedAt": "2025-04-11T14:02:07.539Z",
+        "archived": false
+    },
+    {
+        "id": "15548966832",
+        "properties": {
+            "amount": "78000",
+            "closedate": "2024-01-02T16:46:13.544Z",
+            "createdate": "2023-10-10T20:12:41.872Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:45:49.594Z",
+            "hs_object_id": "15548966832",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-10-10T20:12:41.872Z",
+        "updatedAt": "2025-04-11T13:45:49.594Z",
+        "archived": false
+    },
+    {
+        "id": "15595680807",
+        "properties": {
+            "amount": "21000",
+            "closedate": "2024-01-30T15:24:10.436Z",
+            "createdate": "2023-10-12T19:15:40.189Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-05-02T23:25:09.636Z",
+            "hs_object_id": "15595680807",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-10-12T19:15:40.189Z",
+        "updatedAt": "2024-05-02T23:25:09.636Z",
+        "archived": false
+    },
+    {
+        "id": "15612698689",
+        "properties": {
+            "amount": "151000",
+            "closedate": "2023-10-16T19:28:48.319Z",
+            "createdate": "2023-10-13T13:27:17.724Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:02:07.878Z",
+            "hs_object_id": "15612698689",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-10-13T13:27:17.724Z",
+        "updatedAt": "2025-04-11T14:02:07.878Z",
+        "archived": false
+    },
+    {
+        "id": "15667448664",
+        "properties": {
+            "amount": "60000",
+            "closedate": "2024-04-04T18:49:17.097Z",
+            "createdate": "2023-10-17T13:38:41.981Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-24T20:15:28.924Z",
+            "hs_object_id": "15667448664",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-10-17T13:38:41.981Z",
+        "updatedAt": "2025-01-24T20:15:28.924Z",
+        "archived": false
+    },
+    {
+        "id": "15814178638",
+        "properties": {
+            "amount": "70000",
+            "closedate": "2024-01-02T16:37:15.124Z",
+            "createdate": "2023-10-27T18:06:16.078Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:03:57.532Z",
+            "hs_object_id": "15814178638",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-10-27T18:06:16.078Z",
+        "updatedAt": "2025-04-11T14:03:57.532Z",
+        "archived": false
+    },
+    {
+        "id": "15865612173",
+        "properties": {
+            "amount": "24000",
+            "closedate": "2023-12-04T14:43:54.879Z",
+            "createdate": "2023-10-31T17:15:12.963Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-26T22:51:26.280Z",
+            "hs_object_id": "15865612173",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-10-31T17:15:12.963Z",
+        "updatedAt": "2025-05-26T22:51:26.280Z",
+        "archived": false
+    },
+    {
+        "id": "16039133074",
+        "properties": {
+            "amount": "488250",
+            "closedate": "2025-01-17T18:11:50.439Z",
+            "createdate": "2023-11-13T14:28:40.693Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:49:38.981Z",
+            "hs_object_id": "16039133074",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-11-13T14:28:40.693Z",
+        "updatedAt": "2025-04-11T13:49:38.981Z",
+        "archived": false
+    },
+    {
+        "id": "16057077908",
+        "properties": {
+            "amount": "24000",
+            "closedate": "2023-11-17T19:27:54.449Z",
+            "createdate": "2023-11-14T16:57:17.626Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:03:29.510Z",
+            "hs_object_id": "16057077908",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-11-14T16:57:17.626Z",
+        "updatedAt": "2025-04-11T14:03:29.510Z",
+        "archived": false
+    },
+    {
+        "id": "16356337174",
+        "properties": {
+            "amount": "32500",
+            "closedate": "2025-01-28T16:46:10.994Z",
+            "createdate": "2023-12-04T16:33:34.643Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:45:40.791Z",
+            "hs_object_id": "16356337174",
+            "hubspot_owner_id": "326478439",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-12-04T16:33:34.643Z",
+        "updatedAt": "2025-04-11T13:45:40.791Z",
+        "archived": false
+    },
+    {
+        "id": "16357129253",
+        "properties": {
+            "amount": "20000",
+            "closedate": "2024-04-24T18:20:53.465Z",
+            "createdate": "2023-12-04T17:17:42.671Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-05-23T14:58:32.348Z",
+            "hs_object_id": "16357129253",
+            "hubspot_owner_id": "344482983",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-12-04T17:17:42.671Z",
+        "updatedAt": "2025-05-23T14:58:32.348Z",
+        "archived": false
+    },
+    {
+        "id": "16402588032",
+        "properties": {
+            "amount": "80000",
+            "closedate": "2024-04-05T12:33:07.665Z",
+            "createdate": "2023-12-07T20:19:57.297Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-04-10T14:14:52.766Z",
+            "hs_object_id": "16402588032",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-12-07T20:19:57.297Z",
+        "updatedAt": "2024-04-10T14:14:52.766Z",
+        "archived": false
+    },
+    {
+        "id": "16505279330",
+        "properties": {
+            "amount": "50000",
+            "closedate": "2024-04-05T12:33:14.781Z",
+            "createdate": "2023-12-14T15:05:08.221Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2024-04-10T14:14:52.334Z",
+            "hs_object_id": "16505279330",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-12-14T15:05:08.221Z",
+        "updatedAt": "2024-04-10T14:14:52.334Z",
+        "archived": false
+    },
+    {
+        "id": "16576238964",
+        "properties": {
+            "amount": "58000",
+            "closedate": "2023-12-18T16:15:28.145Z",
+            "createdate": "2023-12-18T16:14:27.312Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:03:49.928Z",
+            "hs_object_id": "16576238964",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2023-12-18T16:14:27.312Z",
+        "updatedAt": "2025-04-11T14:03:49.928Z",
+        "archived": false
+    },
+    {
+        "id": "16771403380",
+        "properties": {
+            "amount": "70000",
+            "closedate": "2024-04-24T18:05:49.443Z",
+            "createdate": "2024-01-02T16:27:33.002Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:50:50.725Z",
+            "hs_object_id": "16771403380",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-01-02T16:27:33.002Z",
+        "updatedAt": "2025-04-11T13:50:50.725Z",
+        "archived": false
+    },
+    {
+        "id": "16772889010",
+        "properties": {
+            "amount": "16000",
+            "closedate": "2024-03-05T15:25:05.171Z",
+            "createdate": "2024-01-02T18:55:43.135Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-22T21:39:46.068Z",
+            "hs_object_id": "16772889010",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-01-02T18:55:43.135Z",
+        "updatedAt": "2025-05-22T21:39:46.068Z",
+        "archived": false
+    },
+    {
+        "id": "16863478409",
+        "properties": {
+            "amount": "578600",
+            "closedate": "2024-03-06T13:24:29.709Z",
+            "createdate": "2024-01-09T13:14:19.570Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:44:11.879Z",
+            "hs_object_id": "16863478409",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-01-09T13:14:19.570Z",
+        "updatedAt": "2025-04-11T13:44:11.879Z",
+        "archived": false
+    },
+    {
+        "id": "16863625251",
+        "properties": {
+            "amount": "231000",
+            "closedate": "2024-03-06T13:24:26.251Z",
+            "createdate": "2024-01-09T13:26:00.160Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-22T21:50:54.590Z",
+            "hs_object_id": "16863625251",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-01-09T13:26:00.160Z",
+        "updatedAt": "2025-05-22T21:50:54.590Z",
+        "archived": false
+    },
+    {
+        "id": "17597248567",
+        "properties": {
+            "amount": "48500",
+            "closedate": "2024-03-05T13:34:39.348Z",
+            "createdate": "2024-02-17T22:46:20.703Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-25T18:51:33.116Z",
+            "hs_object_id": "17597248567",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-02-17T22:46:20.703Z",
+        "updatedAt": "2025-02-25T18:51:33.116Z",
+        "archived": false
+    },
+    {
+        "id": "17657105156",
+        "properties": {
+            "amount": "48500",
+            "closedate": "2024-03-05T13:34:35.680Z",
+            "createdate": "2024-02-21T21:19:54.983Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-25T18:51:33.088Z",
+            "hs_object_id": "17657105156",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-02-21T21:19:54.983Z",
+        "updatedAt": "2025-02-25T18:51:33.088Z",
+        "archived": false
+    },
+    {
+        "id": "17690204274",
+        "properties": {
+            "amount": "20000",
+            "closedate": "2025-01-28T16:36:42.418Z",
+            "createdate": "2024-02-23T15:49:46.951Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:43:55.212Z",
+            "hs_object_id": "17690204274",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-02-23T15:49:46.951Z",
+        "updatedAt": "2025-04-11T13:43:55.212Z",
+        "archived": false
+    },
+    {
+        "id": "17753481867",
+        "properties": {
+            "amount": "450500",
+            "closedate": "2024-04-04T18:47:42.574Z",
+            "createdate": "2024-02-27T17:02:27.124Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-08T17:50:00.005Z",
+            "hs_object_id": "17753481867",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-02-27T17:02:27.124Z",
+        "updatedAt": "2025-05-08T17:50:00.005Z",
+        "archived": false
+    },
+    {
+        "id": "17809804914",
+        "properties": {
+            "amount": "20000",
+            "closedate": "2024-03-07T16:45:15.880Z",
+            "createdate": "2024-03-01T15:52:43.765Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-14T12:13:11.153Z",
+            "hs_object_id": "17809804914",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-01T15:52:43.765Z",
+        "updatedAt": "2025-04-14T12:13:11.153Z",
+        "archived": false
+    },
+    {
+        "id": "17809942078",
+        "properties": {
+            "amount": "50000",
+            "closedate": "2024-03-05T15:14:55.461Z",
+            "createdate": "2024-03-01T16:10:44.847Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:02:13.117Z",
+            "hs_object_id": "17809942078",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-01T16:10:44.847Z",
+        "updatedAt": "2025-04-11T14:02:13.117Z",
+        "archived": false
+    },
+    {
+        "id": "17870013826",
+        "properties": {
+            "amount": "14400",
+            "closedate": "2024-07-03T13:05:32.783Z",
+            "createdate": "2024-03-05T16:19:16.239Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:26:26.144Z",
+            "hs_object_id": "17870013826",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-05T16:19:16.239Z",
+        "updatedAt": "2025-04-11T13:26:26.144Z",
+        "archived": false
+    },
+    {
+        "id": "17904836995",
+        "properties": {
+            "amount": "249500",
+            "closedate": "2024-03-11T15:08:03.461Z",
+            "createdate": "2024-03-07T16:00:19.971Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-30T16:07:51.588Z",
+            "hs_object_id": "17904836995",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-07T16:00:19.971Z",
+        "updatedAt": "2025-04-30T16:07:51.588Z",
+        "archived": false
+    },
+    {
+        "id": "17974133123",
+        "properties": {
+            "amount": "53000",
+            "closedate": "2024-04-04T20:33:09.126Z",
+            "createdate": "2024-03-11T15:07:29.791Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-30T16:07:50.937Z",
+            "hs_object_id": "17974133123",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-11T15:07:29.791Z",
+        "updatedAt": "2025-04-30T16:07:50.937Z",
+        "archived": false
+    },
+    {
+        "id": "18014856249",
+        "properties": {
+            "amount": "20000",
+            "closedate": "2024-07-02T12:50:02.980Z",
+            "createdate": "2024-03-13T15:38:50.322Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:26:22.688Z",
+            "hs_object_id": "18014856249",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-13T15:38:50.322Z",
+        "updatedAt": "2025-04-11T13:26:22.688Z",
+        "archived": false
+    },
+    {
+        "id": "18053125293",
+        "properties": {
+            "amount": "151000",
+            "closedate": "2025-01-28T16:38:51.202Z",
+            "createdate": "2024-03-15T18:11:59.336Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:26:45.753Z",
+            "hs_object_id": "18053125293",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-15T18:11:59.336Z",
+        "updatedAt": "2025-04-11T13:26:45.753Z",
+        "archived": false
+    },
+    {
+        "id": "18109989186",
+        "properties": {
+            "amount": "120100",
+            "closedate": "2024-03-19T20:55:35.769Z",
+            "createdate": "2024-03-19T13:41:00.968Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:01:41.792Z",
+            "hs_object_id": "18109989186",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-19T13:41:00.968Z",
+        "updatedAt": "2025-04-11T14:01:41.792Z",
+        "archived": false
+    },
+    {
+        "id": "18110375426",
+        "properties": {
+            "amount": "9000",
+            "closedate": "2024-03-27T14:18:45.009Z",
+            "createdate": "2024-03-19T14:41:48.126Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-24T20:15:34.481Z",
+            "hs_object_id": "18110375426",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-19T14:41:48.126Z",
+        "updatedAt": "2025-01-24T20:15:34.481Z",
+        "archived": false
+    },
+    {
+        "id": "18133628707",
+        "properties": {
+            "amount": "50000",
+            "closedate": "2024-06-12T20:37:15.298Z",
+            "createdate": "2024-03-20T20:26:01.519Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-01T18:44:17.888Z",
+            "hs_object_id": "18133628707",
+            "hubspot_owner_id": "354640247",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-20T20:26:01.519Z",
+        "updatedAt": "2025-04-01T18:44:17.888Z",
+        "archived": false
+    },
+    {
+        "id": "18290594956",
+        "properties": {
+            "amount": "65000",
+            "closedate": "2024-04-04T20:33:06.005Z",
+            "createdate": "2024-03-28T15:38:58.050Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-21T15:32:02.822Z",
+            "hs_object_id": "18290594956",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-03-28T15:38:58.050Z",
+        "updatedAt": "2025-04-21T15:32:02.822Z",
+        "archived": false
+    },
+    {
+        "id": "18658282064",
+        "properties": {
+            "amount": "150000",
+            "closedate": "2024-05-14T14:08:04.934Z",
+            "createdate": "2024-04-15T18:49:46.276Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-14T18:50:43.014Z",
+            "hs_object_id": "18658282064",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-04-15T18:49:46.276Z",
+        "updatedAt": "2025-04-14T18:50:43.014Z",
+        "archived": false
+    },
+    {
+        "id": "18737028506",
+        "properties": {
+            "amount": "9000",
+            "closedate": "2025-01-28T16:38:25.039Z",
+            "createdate": "2024-04-18T19:27:16.129Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-14T18:50:43.009Z",
+            "hs_object_id": "18737028506",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-04-18T19:27:16.129Z",
+        "updatedAt": "2025-04-14T18:50:43.009Z",
+        "archived": false
+    },
+    {
+        "id": "18874609250",
+        "properties": {
+            "amount": "25000",
+            "closedate": "2024-05-23T15:16:33.951Z",
+            "createdate": "2024-04-24T18:28:21.146Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-02-04T18:06:49.282Z",
+            "hs_object_id": "18874609250",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-04-24T18:28:21.146Z",
+        "updatedAt": "2025-02-04T18:06:49.282Z",
+        "archived": false
+    },
+    {
+        "id": "18875360520",
+        "properties": {
+            "amount": "35000",
+            "closedate": "2024-09-30T15:39:13.423Z",
+            "createdate": "2024-04-24T19:38:05.194Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-04-11T14:01:51.377Z",
+            "hs_object_id": "18875360520",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-04-24T19:38:05.194Z",
+        "updatedAt": "2025-04-11T14:01:51.377Z",
+        "archived": false
+    },
+    {
+        "id": "18917430114",
+        "properties": {
+            "amount": "60000",
+            "closedate": "2025-01-28T16:35:38.721Z",
+            "createdate": "2024-04-26T14:02:21.065Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:51:00.899Z",
+            "hs_object_id": "18917430114",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-04-26T14:02:21.065Z",
+        "updatedAt": "2025-04-11T13:51:00.899Z",
+        "archived": false
+    },
+    {
+        "id": "19393983607",
+        "properties": {
+            "amount": "140600",
+            "closedate": "2024-07-03T13:05:57.191Z",
+            "createdate": "2024-05-15T20:17:47.693Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:59:58.851Z",
+            "hs_object_id": "19393983607",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-05-15T20:17:47.693Z",
+        "updatedAt": "2025-04-11T13:59:58.851Z",
+        "archived": false
+    },
+    {
+        "id": "20509869236",
+        "properties": {
+            "amount": "8000",
+            "closedate": "2024-07-08T14:11:16.521Z",
+            "createdate": "2024-07-03T13:40:46.776Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-06T13:32:56.904Z",
+            "hs_object_id": "20509869236",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-07-03T13:40:46.776Z",
+        "updatedAt": "2025-04-06T13:32:56.904Z",
+        "archived": false
+    },
+    {
+        "id": "21666624031",
+        "properties": {
+            "amount": "3000",
+            "closedate": "2025-01-08T17:31:08.761Z",
+            "createdate": "2024-08-23T14:51:24.199Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-22T21:03:32.112Z",
+            "hs_object_id": "21666624031",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-08-23T14:51:24.199Z",
+        "updatedAt": "2025-05-22T21:03:32.112Z",
+        "archived": false
+    },
+    {
+        "id": "21778992042",
+        "properties": {
+            "amount": "107000",
+            "closedate": "2025-01-30T15:52:31.134Z",
+            "createdate": "2024-08-28T14:44:15.104Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-01-30T16:56:44.397Z",
+            "hs_object_id": "21778992042",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-08-28T14:44:15.104Z",
+        "updatedAt": "2025-01-30T16:56:44.397Z",
+        "archived": false
+    },
+    {
+        "id": "21931860358",
+        "properties": {
+            "amount": "650000",
+            "closedate": "2025-01-21T16:37:53.389Z",
+            "createdate": "2024-09-04T15:20:47.884Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-21T15:40:05.432Z",
+            "hs_object_id": "21931860358",
+            "hubspot_owner_id": "460923546",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-09-04T15:20:47.884Z",
+        "updatedAt": "2025-04-21T15:40:05.432Z",
+        "archived": false
+    },
+    {
+        "id": "21936147023",
+        "properties": {
+            "amount": "32000",
+            "closedate": "2025-02-19T16:37:02.987Z",
+            "createdate": "2024-09-04T19:06:47.229Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-03-15T20:54:59.057Z",
+            "hs_object_id": "21936147023",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-09-04T19:06:47.229Z",
+        "updatedAt": "2025-03-15T20:54:59.057Z",
+        "archived": false
+    },
+    {
+        "id": "21955922196",
+        "properties": {
+            "amount": "6000",
+            "closedate": "2024-11-25T19:11:51.878Z",
+            "createdate": "2024-09-05T18:20:39.250Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-11T13:59:48.360Z",
+            "hs_object_id": "21955922196",
+            "hubspot_owner_id": "320144921",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-09-05T18:20:39.250Z",
+        "updatedAt": "2025-04-11T13:59:48.360Z",
+        "archived": false
+    },
+    {
+        "id": "22148410533",
+        "properties": {
+            "amount": "30000",
+            "closedate": "2025-01-17T18:09:14.250Z",
+            "createdate": "2024-09-11T14:44:13.575Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-06T13:32:44.117Z",
+            "hs_object_id": "22148410533",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2024-09-11T14:44:13.575Z",
+        "updatedAt": "2025-04-06T13:32:44.117Z",
+        "archived": false
+    },
+    {
+        "id": "33602777129",
+        "properties": {
+            "amount": "40000",
+            "closedate": "2025-02-28T23:43:22.346Z",
+            "createdate": "2025-02-17T15:36:55.534Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-04-03T12:00:35.304Z",
+            "hs_object_id": "33602777129",
+            "hubspot_owner_id": "327353913",
+            "pipeline": "default"
+        },
+        "createdAt": "2025-02-17T15:36:55.534Z",
+        "updatedAt": "2025-04-03T12:00:35.304Z",
+        "archived": false
+    },
+    {
+        "id": "34489614204",
+        "properties": {
+            "amount": "61920",
+            "closedate": "2025-05-05T15:29:23.757Z",
+            "createdate": "2025-03-10T21:57:26.323Z",
+            "dealstage": "closedlost",
+            "dealtype": "newbusiness",
+            "hs_lastmodifieddate": "2025-05-06T06:54:25.270Z",
+            "hs_object_id": "34489614204",
+            "hubspot_owner_id": "326473624",
+            "pipeline": "default"
+        },
+        "createdAt": "2025-03-10T21:57:26.323Z",
+        "updatedAt": "2025-05-06T06:54:25.270Z",
+        "archived": false
+    },
+    {
+        "id": "34633182783",
+        "properties": {
+            "amount": "71500",
+            "closedate": "2025-05-05T15:29:10.659Z",
+            "createdate": "2025-03-13T22:35:41.748Z",
+            "dealstage": "closedlost",
+            "dealtype": "existingbusiness",
+            "hs_lastmodifieddate": "2025-05-06T06:54:28.005Z",
+            "hs_object_id": "34633182783",
+            "hubspot_owner_id": "326473624",
+            "pipeline": "default"
+        },
+        "createdAt": "2025-03-13T22:35:41.748Z",
+        "updatedAt": "2025-05-06T06:54:28.005Z",
+        "archived": false
+    }
+]
