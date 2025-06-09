@@ -20,7 +20,6 @@ def validate_deals(df: pd.DataFrame, required_cols: list):
     missing = [c for c in required_cols if c not in df.columns]
     if missing:
         raise ValueError(f"Missing columns in deals DataFrame: {missing}")
-    # Check for nulls in 'deal_id' only after ensuring it exists
     if 'deal_id' in df.columns and df['deal_id'].isnull().any():
         raise ValueError("Null deal_id found in deals DataFrame")
 
@@ -34,59 +33,44 @@ def load_and_merge(
       - outcome (1 = won, 0 = lost)
       - all activities (as a list of dicts) per deal
     """
-    # 1) Load deals
     won_df = load_json(won_path)
     lost_df = load_json(lost_path)
 
-    # IMPORTANT FIX: Rename the 'id' column to 'deal_id' in both deal DataFrames
-    # This aligns with the 'deal_id' column expected by activities and validation
     if 'id' in won_df.columns:
         won_df.rename(columns={'id': 'deal_id'}, inplace=True)
     if 'id' in lost_df.columns:
         lost_df.rename(columns={'id': 'deal_id'}, inplace=True)
 
-    # 2) Add outcome label
     won_df['outcome'] = 1
     lost_df['outcome'] = 0
 
-    # 3) Combine deals
     deals_df = pd.concat([won_df, lost_df], ignore_index=True)
     
-    # Validate the combined deals DataFrame
     validate_deals(deals_df, required_cols=['deal_id', 'outcome'])
     
-    # 4) Load activities
     act_df = load_json(activities_path)
     if 'deal_id' not in act_df.columns:
         raise ValueError("activities.json must contain 'deal_id' column")
 
-    # Fix for UserWarning: Remove trailing 'Z' and parse with utc=True
     act_df['timestamp'] = act_df['timestamp'].str.replace('Z$', '', regex=True)
     act_df['timestamp'] = pd.to_datetime(act_df['timestamp'], errors='coerce', utc=True)
     act_df = act_df.dropna(subset=['deal_id', 'timestamp'])
 
-    # 5) Group activities per deal
     grouped = (
         act_df
         .sort_values(['deal_id', 'timestamp'])
         .groupby('deal_id')
-        # Fix for FutureWarning and the critical ValueError:
-        # Use include_groups=False and specify name in reset_index
         .apply(lambda d: d.to_dict(orient='records'), include_groups=False)
         .reset_index(name='activities') # Correct way to rename the series values after reset_index
     )
 
-    # 6) Merge deals with their list of activities
-    # Use 'left' merge to keep all deals, even those without activities
     merged = deals_df.merge(grouped, on='deal_id', how='left')
     
-    # If some deals have no activities, fill with an empty list instead of NaN
     merged['activities'] = merged['activities'].apply(lambda x: x if isinstance(x, list) else [])
     
     return merged
 
 if __name__ == "__main__":
-    # Quick test (update paths if needed)
     try:
         merged_df = load_and_merge(
             won_path="data/won_deals.json",
