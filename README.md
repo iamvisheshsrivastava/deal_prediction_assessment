@@ -69,20 +69,3 @@ GitHub Link with Exploratory Data Analysis (EDA) and testing notebooks, Python s
 You should submit a GitHub link of your deliverables.
 
 ---
-
-## 🛠️ Environment Setup & Installation
-
-To run the code, first create a virtual environment and install dependencies:
-
-```bash
-# Create virtual environment
-python -m venv deal_prediction_assessment
-
-# Activate virtual environment (Windows)
-deal_prediction_assessment\Scripts\activate
-
-# Activate virtual environment (Unix/MacOS)
-source deal_prediction_assessment/bin/activate
-
-# Install required packages
-pip install pandas scikit-learn xgboost matplotlib seaborn jupyter
